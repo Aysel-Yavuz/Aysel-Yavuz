@@ -1,7 +1,7 @@
 - 🤸🏻‍♀️ Hi, I’m @Aysel-Yavuz ☺
-- 🤹🏻‍♀️ I’m interested in programming, visual arts, design and also photography.🌈
+- 🤓 I’m interested in programming, visual arts, design and also photography.🌈 🤹🏻‍🤸🏻‍♀️🌈
 - 🌱 I’m currently learning programming languages.👩🏻‍🚀
-- 🤓 I’m looking to collaborate on HTML, CSS, Python, JavaScript.👊🏻
+- 😎 I’m looking to collaborate on HTML, CSS, Python, JavaScript.👊🏻
 - 🕊 U can reach me out at my e-mail: ael.yavuz@gmail.com 👋🏻
 
 <!---
