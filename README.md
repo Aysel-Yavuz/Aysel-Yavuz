@@ -1,4 +1,4 @@
-- 🤸🏻‍♀️ Hi, I’m @Aysel-Yavuz ☺
+- 🤸🏻‍♀️ Hi, I’m Ays. ☺
 - 🤓 I’m interested in programming, visual arts, design and photography  🌈
 - 🌱 and currently learning programming languages.🤸🏻‍♀️
 - 😎 I’m looking to collaborate on HTML, CSS, Python, JavaScript.👊🏻
